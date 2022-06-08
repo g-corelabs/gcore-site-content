@@ -1,0 +1,1 @@
+rtmpStream.paused = true

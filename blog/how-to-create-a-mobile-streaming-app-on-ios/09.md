@@ -1,0 +1,2 @@
+rtmpConnection.connect(connectString)
+rtmpStream.publish(publishString)

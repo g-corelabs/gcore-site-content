@@ -1,0 +1,1 @@
+https://github.com/shogo4405/HaishinKit.swift
