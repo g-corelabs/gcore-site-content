@@ -1,0 +1,1 @@
+rtmpCamera2 = RtmpCamera2(openGlView, connectCheckerRtmp)
